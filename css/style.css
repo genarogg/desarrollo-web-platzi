@@ -2,4 +2,28 @@ body {
   font-family: "Source Sans Pro", sans-serif;
   margin: 0; }
 
+h1, h2, h3,
+h4, h5, h6 {
+  font-family: "Fjalla One", serif;
+  font-weight: normal; }
+
+h1 {
+  font-size: 40px;
+  line-height: 1.5em;
+  letter-spacing: -.2px;
+  color: #fff;
+  /*margin: 100px 150px 70px 30pxs;*/
+  margin: 0; }
+
+h1 strong {
+  color: #026fff; }
+
+h2 {
+  color: #026fff;
+  text-transform: uppercase;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 40px; }
+
 /*# sourceMappingURL=style.css.map */
