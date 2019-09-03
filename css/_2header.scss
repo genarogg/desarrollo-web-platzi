@@ -18,6 +18,13 @@
         padding: 0 10px;
     }
 
-    
+    ul{
+        display: flex;
+        height: inherit;
+        
+        li{
+            height: inherit;
+        }
+    }
 }
 
