@@ -41,3 +41,16 @@ figure{
     margin: 0;
 }
 
+.container{
+    /*border: 1px solid red;*/
+    max-width: 1004px;
+    margin: 0 auto;
+    display: inherit;
+    justify-content: inherit;
+    text-items: inherit;
+    height: inherit;
+    flex-wrap: inherit;
+    align-items: inherit;
+    flex: 1;
+}
+

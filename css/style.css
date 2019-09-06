@@ -34,6 +34,25 @@ ol, ul {
 figure {
   margin: 0; }
 
+.container {
+  /*border: 1px solid red;*/
+  max-width: 1004px;
+  margin: 0 auto;
+  display: inherit;
+  -webkit-box-pack: inherit;
+      -ms-flex-pack: inherit;
+          justify-content: inherit;
+  text-items: inherit;
+  height: inherit;
+  -ms-flex-wrap: inherit;
+      flex-wrap: inherit;
+  -webkit-box-align: inherit;
+      -ms-flex-align: inherit;
+          align-items: inherit;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1; }
+
 .header {
   background-color: #1b2127;
   color: white;
@@ -132,5 +151,4 @@ figure {
     width: 50%; }
   .portafolio .project-img-container img {
     max-width: 100%; }
-
 /*# sourceMappingURL=style.css.map */
