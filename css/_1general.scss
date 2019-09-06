@@ -54,3 +54,18 @@ figure{
     flex: 1;
 }
 
+.burger-button{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgba(#000, .8);
+    color: #fff;
+    display: none;
+    line-height: 40px;
+    text-align: center;
+    position: fixed;
+    z-index: 5;
+    left: 5px;
+    top: 5px;
+}
+
