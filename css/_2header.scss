@@ -20,12 +20,16 @@
         
     }
 
-    ul{
-        display: flex;
+    .menu{
         height: inherit;
         
-        li{
+        ul{
+            display: flex;
             height: inherit;
+            
+            li{
+                height: inherit;
+            }
         }
     }
 }

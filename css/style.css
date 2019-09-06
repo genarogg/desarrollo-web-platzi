@@ -62,13 +62,15 @@ figure {
     /* display: block; */
     height: inherit;
     padding: 0 10px; }
-  .header ul {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
+  .header .menu {
     height: inherit; }
-    .header ul li {
+    .header .menu ul {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
       height: inherit; }
+      .header .menu ul li {
+        height: inherit; }
 
 .hero {
   height: 300px;
