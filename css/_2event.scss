@@ -17,4 +17,14 @@
             object-fit: cover;
         }
     }
+
+    .event-detail{
+        margin: 20px 40px;
+        margin-top: -40px; 
+        background-color: #fff;
+        position: relative;
+        z-index: 5;
+        padding: 20px;
+        text-align: center;
+    }
 }
