@@ -10,5 +10,11 @@
         flex-shrink: 0; 
         overflow: hidden;
         background-color: #f4fbff;
+
+        img{
+            width: 480px;
+            height: 200px;
+            object-fit: cover;
+        }
     }
 }
