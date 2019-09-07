@@ -119,6 +119,10 @@ figure {
           justify-content: space-between;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap; }
+  .footer img {
+    vertical-align: middle; }
+  .footer a {
+    color: #fff; }
 
 .hero {
   height: 300px;
