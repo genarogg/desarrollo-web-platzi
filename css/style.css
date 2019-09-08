@@ -206,6 +206,14 @@ figure {
     height: 50px;
     margin: 0 15px;
     background-size: 50px 50px; }
+  .contact .social-link.twitter {
+    background-image: url(../img/twitter.svg); }
+  .contact .social-link.facebook {
+    background-image: url(../img/facebook.svg); }
+  .contact .social-link.github {
+    background-image: url(../img/github.svg); }
+  .contact .social-link.instagram {
+    background-image: url(../img/instagram.svg); }
 
 .portafolio {
   background-color: #fafafa;
