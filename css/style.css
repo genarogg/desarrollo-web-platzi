@@ -311,6 +311,15 @@ figure {
     padding: 2em; }
 
   .portafolio {
-    padding: 0; } }
+    padding: 0; }
+
+  .hero-img {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%; } }
 
 /*# sourceMappingURL=style.css.map */
