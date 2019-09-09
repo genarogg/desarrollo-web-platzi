@@ -298,6 +298,12 @@ figure {
 
 @media screen and (max-width: 1023px) {
   .container {
-    padding: 0 .7em; } }
+    padding: 0 .7em; }
+
+  .hero {
+    height: auto;
+    position: relative;
+    overflow: hidden;
+    padding: 2em; } }
 
 /*# sourceMappingURL=style.css.map */
