@@ -308,6 +308,9 @@ figure {
     height: auto;
     position: relative;
     overflow: hidden;
-    padding: 2em; } }
+    padding: 2em; }
+
+  .portafolio {
+    padding: 0; } }
 
 /*# sourceMappingURL=style.css.map */
