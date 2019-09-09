@@ -296,4 +296,8 @@ figure {
   .portafolio .project-img-container img {
     max-width: 100%; }
 
+@media screen and (max-width: 1023px) {
+  .container {
+    padding: 0 .7em; } }
+
 /*# sourceMappingURL=style.css.map */
