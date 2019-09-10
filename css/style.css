@@ -365,6 +365,14 @@ figure {
       display: block; }
       .header ul li {
         height: 50px;
-        text-align: center; } }
+        text-align: center; }
+    .header a {
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+      height: 40px;
+      font-size: 2em;
+      text-decoration: underline;
+      margin-bottom: .5em; } }
 
 /*# sourceMappingURL=style.css.map */
