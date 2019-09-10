@@ -356,6 +356,10 @@ figure {
     .menu.is-active {
       left: 0;
       -webkit-transition: all ease 600ms;
-      transition: all ease 600ms; } }
+      transition: all ease 600ms; }
+
+  .header {
+    display: block;
+    height: auto; } }
 
 /*# sourceMappingURL=style.css.map */
