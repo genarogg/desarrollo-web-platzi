@@ -360,6 +360,11 @@ figure {
 
   .header {
     display: block;
-    height: auto; } }
+    height: auto; }
+    .header ul {
+      display: block; }
+      .header ul li {
+        height: 50px;
+        text-align: center; } }
 
 /*# sourceMappingURL=style.css.map */
