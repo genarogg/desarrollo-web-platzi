@@ -8,4 +8,24 @@
     .burger-button{
         display: block;
     }
+
+    .menu{
+        position: fixed;
+        background-color: rgba(#026fff, .8);
+        z-index: 3;
+        top: 0;
+        left: -100vw;
+        width: 100vw;
+        /* height: 100vh; */
+        bottom: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition:  all ease 600ms;
+
+        &.is-active{
+            left: 0;
+            transition:  all ease 600ms;
+        }
+    }
 }
