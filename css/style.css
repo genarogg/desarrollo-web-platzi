@@ -328,6 +328,9 @@ figure {
   h2 {
     font-size: 1.2em;
     margin: 0.7em 0;
-    text-align: center; } }
+    text-align: center; }
+
+  .burger-button {
+    display: block; } }
 
 /*# sourceMappingURL=style.css.map */
