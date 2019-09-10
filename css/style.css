@@ -324,5 +324,10 @@ figure {
 
   .event-list-title {
     margin-left: 0; } }
+@media screen and (max-width: 767px) {
+  h2 {
+    font-size: 1.2em;
+    margin: 0.7em 0;
+    text-align: center; } }
 
 /*# sourceMappingURL=style.css.map */
