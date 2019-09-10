@@ -320,6 +320,9 @@ figure {
     right: 0;
     left: 0;
     bottom: 0;
-    width: 100%; } }
+    width: 100%; }
+
+  .event-list-title {
+    margin-left: 0; } }
 
 /*# sourceMappingURL=style.css.map */
