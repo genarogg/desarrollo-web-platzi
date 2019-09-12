@@ -384,6 +384,9 @@ figure {
     display: block; }
     .project .project-img-container {
       width: auto;
-      text-align: center; } }
+      text-align: center; }
+    .project .project-details {
+      width: auto;
+      /* font-size: 16px; */ } }
 
 /*# sourceMappingURL=style.css.map */
