@@ -376,6 +376,8 @@ figure {
       height: 40px;
       font-size: 2em;
       text-decoration: underline;
-      margin-bottom: .5em; } }
+      margin-bottom: .5em; }
+    .header .logo {
+      text-align: center; } }
 
 /*# sourceMappingURL=style.css.map */
