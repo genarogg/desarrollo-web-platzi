@@ -378,6 +378,12 @@ figure {
       text-decoration: underline;
       margin-bottom: .5em; }
     .header .logo {
+      text-align: center; }
+
+  .project {
+    display: block; }
+    .project .project-img-container {
+      width: auto;
       text-align: center; } }
 
 /*# sourceMappingURL=style.css.map */
