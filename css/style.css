@@ -333,6 +333,9 @@ figure {
   .burger-button {
     display: block; }
 
+  .event-list-title {
+    text-align: center; }
+
   .menu {
     position: fixed;
     background-color: rgba(2, 111, 255, 0.8);
