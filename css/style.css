@@ -394,6 +394,10 @@ figure {
     .project .project-url {
       font-size: 1em; }
     .project .project-course {
-      font-size: .7em; } }
+      font-size: .7em; }
+    .project .project-date {
+      font-size: 1em; }
+    .project .project-description {
+      font-size: 1em; } }
 
 /*# sourceMappingURL=style.css.map */
