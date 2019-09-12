@@ -398,6 +398,14 @@ figure {
     .project .project-date {
       font-size: 1em; }
     .project .project-description {
-      font-size: 1em; } }
+      font-size: 1em; }
+
+  .event {
+    width: auto;
+    -ms-flex-negative: initial;
+        flex-shrink: initial; }
+    .event img {
+      width: 100%;
+      height: auto; } }
 
 /*# sourceMappingURL=style.css.map */
