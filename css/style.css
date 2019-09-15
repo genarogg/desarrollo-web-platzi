@@ -407,5 +407,8 @@ figure {
     .event img {
       width: 100%;
       height: auto; } }
+@media screen and (max-width: 480px) {
+  h1 {
+    font-size: 1em; } }
 
 /*# sourceMappingURL=style.css.map */
