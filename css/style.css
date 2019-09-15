@@ -409,6 +409,9 @@ figure {
       height: auto; } }
 @media screen and (max-width: 480px) {
   h1 {
-    font-size: 1em; } }
+    font-size: 1em; }
+
+  .project-details {
+    font-size: 14px; } }
 
 /*# sourceMappingURL=style.css.map */
