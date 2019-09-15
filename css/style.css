@@ -412,6 +412,12 @@ figure {
     font-size: 1em; }
 
   .project-details {
-    font-size: 14px; } }
+    font-size: 14px; }
+
+  .contact {
+    height: auto;
+    padding: 1em 0;
+    text-align: center;
+    display: block; } }
 
 /*# sourceMappingURL=style.css.map */
