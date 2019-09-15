@@ -418,6 +418,10 @@ figure {
     height: auto;
     padding: 1em 0;
     text-align: center;
-    display: block; } }
+    display: block; }
+
+  .form-email button {
+    margin: 1em auto;
+    border: 1px solid #fff; } }
 
 /*# sourceMappingURL=style.css.map */
