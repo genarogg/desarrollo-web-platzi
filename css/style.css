@@ -424,6 +424,11 @@ figure {
     margin: 1em auto;
     border: 1px solid #fff; }
   .form-email h3 {
-    margin-top: 0; } }
+    margin-top: 0; }
+
+  .footer {
+    display: block;
+    text-align: center;
+    border: 1px solid transparent; } }
 
 /*# sourceMappingURL=style.css.map */
