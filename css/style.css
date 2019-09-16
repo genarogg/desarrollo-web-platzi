@@ -439,6 +439,9 @@ figure {
     /* background-color: rgba(#000, .1); */
     /*  text-shadow: 3px 3px 9px rgba(#026fff, .27),
                   3px 3px 9px rgba(white, .01),
-                  3px 3px 9px rgba(black, .03); */ } }
+                  3px 3px 9px rgba(black, .03); */ }
+
+  .hero {
+    padding: 2em 1em; } }
 
 /*# sourceMappingURL=style.css.map */
