@@ -442,6 +442,9 @@ figure {
                   3px 3px 9px rgba(black, .03); */ }
 
   .hero {
-    padding: 2em 1em; } }
+    padding: 2em 1em; }
+
+  .event-list-title {
+    margin: 10px auto; } }
 
 /*# sourceMappingURL=style.css.map */
