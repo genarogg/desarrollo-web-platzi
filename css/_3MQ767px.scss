@@ -1,6 +1,15 @@
 @media screen and (max-width: 767px) {
-
+    .event-list{
+        .event{
+            width: auto;
+            flex-shrink: initial;
     
+            img{
+                width: 100%;
+                height: auto;
+            }
+        }
+    }
 
     h2{
         font-size: 1.2em;
@@ -97,13 +106,5 @@
         }
     }
 
-    .event{
-        width: auto;
-        flex-shrink: initial;
-
-        img{
-            width: 100%;
-            height: auto;
-        }
-    }
+    
 }

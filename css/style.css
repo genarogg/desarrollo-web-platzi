@@ -325,6 +325,14 @@ figure {
   .event-list-title {
     margin-left: 0; } }
 @media screen and (max-width: 767px) {
+  .event-list .event {
+    width: auto;
+    -ms-flex-negative: initial;
+        flex-shrink: initial; }
+    .event-list .event img {
+      width: 100%;
+      height: auto; }
+
   h2 {
     font-size: 1.2em;
     margin: 0.7em 0;
@@ -398,15 +406,7 @@ figure {
     .project .project-date {
       font-size: 1em; }
     .project .project-description {
-      font-size: 1em; }
-
-  .event {
-    width: auto;
-    -ms-flex-negative: initial;
-        flex-shrink: initial; }
-    .event img {
-      width: 100%;
-      height: auto; } }
+      font-size: 1em; } }
 @media screen and (max-width: 480px) {
   h1 {
     font-size: 1em; }
