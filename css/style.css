@@ -388,24 +388,24 @@ figure {
     .header .logo {
       text-align: center; }
 
-  .project {
+  .portafolio .project {
     display: block; }
-    .project .project-img-container {
+    .portafolio .project .project-img-container {
       width: auto;
       text-align: center; }
-    .project .project-details {
+    .portafolio .project .project-details {
       width: auto;
       /* font-size: 16px; */ }
-    .project .project-title {
+    .portafolio .project .project-title {
       font-size: 1.5em;
       margin-bottom: 1.3em; }
-    .project .project-url {
+    .portafolio .project .project-url {
       font-size: 1em; }
-    .project .project-course {
+    .portafolio .project .project-course {
       font-size: .7em; }
-    .project .project-date {
+    .portafolio .project .project-date {
       font-size: 1em; }
-    .project .project-description {
+    .portafolio .project .project-description {
       font-size: 1em; } }
 @media screen and (max-width: 480px) {
   h1 {
