@@ -48,23 +48,27 @@
     .header{
         display: block;
         height: auto;
+        .menu{
+            ul{
+                display: block;
+    
+                li{
+                    height: 50px;
+                    text-align: center;
 
-        ul{
-            display: block;
-
-            li{
-                height: 50px;
-                text-align: center;
+                    a{
+                        justify-content: center;
+                        height: 40px;
+                        font-size: 2em;
+                        text-decoration: underline;
+                        margin-bottom: .5em;
+                    }
+                }
             }
         }
+        
 
-        a{
-            justify-content: center;
-            height: 40px;
-            font-size: 2em;
-            text-decoration: underline;
-            margin-bottom: .5em;
-        }
+        
 
         .logo{
             text-align: center;

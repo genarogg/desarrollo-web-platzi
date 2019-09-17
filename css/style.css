@@ -372,19 +372,19 @@ figure {
   .header {
     display: block;
     height: auto; }
-    .header ul {
+    .header .menu ul {
       display: block; }
-      .header ul li {
+      .header .menu ul li {
         height: 50px;
         text-align: center; }
-    .header a {
-      -webkit-box-pack: center;
-          -ms-flex-pack: center;
-              justify-content: center;
-      height: 40px;
-      font-size: 2em;
-      text-decoration: underline;
-      margin-bottom: .5em; }
+        .header .menu ul li a {
+          -webkit-box-pack: center;
+              -ms-flex-pack: center;
+                  justify-content: center;
+          height: 40px;
+          font-size: 2em;
+          text-decoration: underline;
+          margin-bottom: .5em; }
     .header .logo {
       text-align: center; }
 
