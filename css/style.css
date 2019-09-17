@@ -386,7 +386,8 @@ figure {
           text-decoration: underline;
           margin-bottom: .5em; }
     .header .logo {
-      text-align: center; }
+      text-align: center;
+      padding: 10px 0; }
 
   .portafolio .project {
     display: block; }
