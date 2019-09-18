@@ -344,6 +344,12 @@ figure {
   .event-list-title {
     text-align: center; }
 
+  .contact {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    height: 225px; }
+
   .menu {
     position: fixed;
     background-color: rgba(2, 111, 255, 0.8);
