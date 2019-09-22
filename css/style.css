@@ -173,7 +173,9 @@ figure {
     position: relative;
     z-index: 5;
     padding: 20px;
-    text-align: center; }
+    text-align: center;
+    -webkit-box-shadow: 0px 1px 3px 0px #282828;
+            box-shadow: 0px 1px 3px 0px #282828; }
   .event-list .event-description {
     text-align: left; }
   .event-list .event-url {
